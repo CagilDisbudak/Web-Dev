@@ -1,0 +1,14 @@
+C:\Users\cdisb\OneDrive\Masaüstü\ConsoleApp201711022\ConsoleApp201711022\bin\Debug\ConsoleApp201711022.exe.config
+C:\Users\cdisb\OneDrive\Masaüstü\ConsoleApp201711022\ConsoleApp201711022\bin\Debug\ConsoleApp201711022.exe
+C:\Users\cdisb\OneDrive\Masaüstü\ConsoleApp201711022\ConsoleApp201711022\bin\Debug\ConsoleApp201711022.pdb
+C:\Users\cdisb\OneDrive\Masaüstü\ConsoleApp201711022\ConsoleApp201711022\obj\Debug\ConsoleApp201711022.csprojAssemblyReference.cache
+C:\Users\cdisb\OneDrive\Masaüstü\ConsoleApp201711022\ConsoleApp201711022\obj\Debug\ConsoleApp201711022.csproj.CoreCompileInputs.cache
+C:\Users\cdisb\OneDrive\Masaüstü\ConsoleApp201711022\ConsoleApp201711022\obj\Debug\ConsoleApp201711022.exe
+C:\Users\cdisb\OneDrive\Masaüstü\ConsoleApp201711022\ConsoleApp201711022\obj\Debug\ConsoleApp201711022.pdb
+C:\Users\cdisb\OneDrive\Masaüstü\Dersler\Ceng 382 Web Development (Murat Hoca)\Lab4\ConsoleApp201711022\ConsoleApp201711022\bin\Debug\ConsoleApp201711022.exe.config
+C:\Users\cdisb\OneDrive\Masaüstü\Dersler\Ceng 382 Web Development (Murat Hoca)\Lab4\ConsoleApp201711022\ConsoleApp201711022\bin\Debug\ConsoleApp201711022.exe
+C:\Users\cdisb\OneDrive\Masaüstü\Dersler\Ceng 382 Web Development (Murat Hoca)\Lab4\ConsoleApp201711022\ConsoleApp201711022\bin\Debug\ConsoleApp201711022.pdb
+C:\Users\cdisb\OneDrive\Masaüstü\Dersler\Ceng 382 Web Development (Murat Hoca)\Lab4\ConsoleApp201711022\ConsoleApp201711022\obj\Debug\ConsoleApp201711022.csprojAssemblyReference.cache
+C:\Users\cdisb\OneDrive\Masaüstü\Dersler\Ceng 382 Web Development (Murat Hoca)\Lab4\ConsoleApp201711022\ConsoleApp201711022\obj\Debug\ConsoleApp201711022.csproj.CoreCompileInputs.cache
+C:\Users\cdisb\OneDrive\Masaüstü\Dersler\Ceng 382 Web Development (Murat Hoca)\Lab4\ConsoleApp201711022\ConsoleApp201711022\obj\Debug\ConsoleApp201711022.exe
+C:\Users\cdisb\OneDrive\Masaüstü\Dersler\Ceng 382 Web Development (Murat Hoca)\Lab4\ConsoleApp201711022\ConsoleApp201711022\obj\Debug\ConsoleApp201711022.pdb
