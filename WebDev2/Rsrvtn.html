@@ -1,0 +1,342 @@
+</html>
+<head>
+    <title> Cankaya Reservation  </title>
+</head>
+<body>
+
+<style>
+   body
+     {
+         background-image: url("body.jpg");
+     }
+     table
+     {
+         width: 100%;
+     }
+     td
+     {
+         text-align: center;
+         background-color: brown;
+         font-style: normal;
+         color: black;
+         font-size:200%
+        
+     }
+     .divstyle{
+            background-color: brown;
+            border-width:thin;
+            border-style:outset;
+            border-color:lightgoldenrodyellow;
+            text-align:center;
+            width:740px;
+            bottom: 740px;
+            margin-left:30%
+            
+        }
+   h1{
+       font-style: normal;
+       font-size:250%
+   }
+   p
+   {
+    font-style: normal;
+    font-size:100%
+   }
+  
+   .inp{
+    font-style:initial;
+    font-size:150%;
+    background-color: rgb(227, 252, 0);
+   }
+   
+   
+</style>
+   
+
+        <table>
+            <tr>
+                <td> <img src="logo.png" width=75 height=75></td>
+                <td><a href="index.html" style="text-decoration:none; color:black">Home Page</a> </td>
+                <td><a href="Contact.html" style="text-decoration:none; color:black">Contact</a> </td>
+                <td><a href="SingUp.html" style="text-decoration:none; color:black">Sign Up</a></td>
+                <td><a href="Gallery.html" style="text-decoration:none; color:black">Gallery</a></td>
+            </tr>   
+            
+        
+          </table>
+  <br/>
+  <br/>
+  <br/>
+  
+  <table width="100%"  >
+    <tr align = "center">
+        <td rowspan="1"> <p style="background-color:rgb(252, 255, 71);"> FOOD </p> </td>
+        <td> <p style="background-color:rgb(252, 255, 71);"> DESSERT</p> </td>
+        <td> <p style="background-color:rgb(252, 255, 71);"> DRINK </p>  </td>
+    </tr> 
+    <tr>
+        <td>
+              <p style="background-color:rgb(86, 255, 71)"> Noodle </p>
+        </td>
+        <td>
+              <p style="background-color:rgb(86, 255, 71)"> Daifuku</p>
+        </td>
+        <td>
+            <p style="background-color:rgb(86, 255, 71)"> Water </p>
+      </td>
+    </tr>
+
+    <tr align = "center">
+        <td rowspan="1"> <p style="background-color:rgb(86, 255, 71)"> Onigiri </p> </td>
+        <td> <p style="background-color:rgb(86, 255, 71)"> Dango</p>  </td>
+        <td> <p style="background-color:rgb(86, 255, 71)"> Coke </p>  </td>
+    </tr> 
+    <tr>
+        <td>
+              <p style="background-color:rgb(86, 255, 71)"> Sashimi </p>
+        </td>
+        <td>
+              <p style="background-color:rgb(86, 255, 71)"> Mochi </p>
+        </td>
+        <td>
+            <p style="background-color:rgb(86, 255, 71)"> Sprite </p>
+      </td>
+    </tr>
+    <tr align = "center">
+        <td rowspan="1"> <p style="background-color:rgb(86, 255, 71)"> Ramen </p> </td>
+        <td> <p style="background-color:rgb(86, 255, 71)"> Anmitsu </p>  </td>
+        <td> <p style="background-color:rgb(86, 255, 71)"> ----  </p>  </td>
+    </tr> 
+   
+
+  </table> 
+  
+
+
+
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+<div class="divstyle">
+   
+    <select class="inp" id = "hours">
+        <option value = "hour-select" >Select Hour</option>
+        <option value = "10:00">10: 00</option>
+        <option value = "12:00">12: 00</option>
+        <option value = "14:00">14: 00</option>
+        <option value = "16:00">16: 00</option>
+        <option value = "18:00">18: 00</option>
+        <option value = "20:00">20: 00</option>
+        <option value = "22:00">22: 00</option>
+  
+    </select>
+
+    <select class="inp" id = "yemek">
+        <option value = "Food-select" data-prc="0" >Select Food</option>
+        <option value = "Noodle -> 10 tl" data-prc="10"> Noodle 10TL</option>
+        <option value = "Onigiri -> 35 tl" data-prc="35"> Onigiri 35TL </option>
+        <option value = "Sashimi -> 28 tl" data-prc="28">Sashimi 28TL</option>
+        <option value = "Ramen -> 20 tl" data-prc="20">Ramen 20TL</option>
+       
+  
+    </select>
+
+
+    <select class="inp" id = "tatli">
+        <option value = "Dessert-select" data-prc="0">Select Dessert</option>
+        <option value = "Daifuku -> 23 tl" data-prc="23"> Daifuku 23TL</option>
+        <option value = "Dango -> 12 tl" data-prc="12"> Dango 12TL</option>
+        <option value = "Mochi -> 8 tl" data-prc="8" >Mochi 8TL</option>
+        <option value = "Anmitsu -> 20 tl" data-prc="20">Anmitsu 20TL</option>
+        
+    </select>
+
+    <select class="inp" id = "icicek">
+        <option value = "Drink-select"  data-prc="0">Select Drink</option>
+        <option value = "Coke-> 5 tl" data-prc="5"> Coke 5TL</option>
+        <option value = "Sprite -> 5 tl" data-prc="5"> Sprite 5TL</option>
+        <option value = "Water -> 2 tl" data-prc="2">Water 2TL</option>
+    </select>
+
+ <br>
+ <br>
+    <input class="inp" type="date" id="myDate">
+    
+    <label for="tip" style="font-size: 150%;"> Enter Tip Amount:</label>
+    <input type="text" id="tip">
+ <br>
+ <br>
+    <button class="inp" type="option" onclick="app()">Submit</button>
+    <button class="inp" type="option" onclick="reset()">Reset</button>
+
+</div>  
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+
+<div class="divstyle">
+<p class="date" style="font-size:20px;"></p>  
+<p class="Hour" style="font-size:20px;"></p>
+<p class="Yemek" style="font-size:20px;"></p>
+<p class="tatli" style="font-size:20px;"></p>
+<p class="icicek" style="font-size:20px;"></p>
+<p class="tip" style="font-size:20px;"></p>
+<p class="ymktp" style="font-size:20px;"></p>
+<p class="toplam" style="font-size:20px;"></p>
+</div>
+
+
+
+
+
+
+<script>
+
+
+
+
+
+function Hours(x)
+ {
+
+
+  
+  document.querySelector(".Hour").innerText = "Hour :" + document.getElementById("hours")[x].value;
+
+ 
+}
+
+function Yemek(a)
+{
+    
+document.querySelector(".Yemek").innerText = document.getElementById("yemek")[a].value;
+}
+
+
+function tarih(tr)
+{
+
+document.querySelector(".date").innerText = "Date : "+ tr;
+
+
+}
+
+function icicek(n){
+
+
+
+    document.querySelector(".Icicek").innerText = document.getElementById("icicek")[n].value;
+
+
+}
+
+function tatli(n){
+
+    
+
+  document.querySelector(".tatli").innerText = document.getElementById("tatli")[n].value;
+
+
+
+
+
+}
+
+function tip(t){
+
+document.querySelector(".tip").innerText = "Tip : "+ t + " TL";
+
+
+}
+function ymktp(toplam){
+
+document.querySelector(".ymktp").innerText = "Only Food :" + toplam;
+
+
+}
+function toplam(toplam){
+
+document.querySelector(".toplam").innerText = "Food and Tip : " + toplam;
+
+
+}
+
+function app()
+{
+    
+
+var x = document.getElementById("hours").selectedIndex; 
+var a = document.getElementById("yemek").selectedIndex;
+var n = document.getElementById("icicek").selectedIndex;
+var tr= document.getElementById("myDate").value;
+var tat = document.getElementById("tatli").selectedIndex;
+var t= document.getElementById("tip").value;
+
+var sel = document.getElementById('tatli');
+var selected = sel.options[sel.selectedIndex];
+var extra = selected.getAttribute('data-prc');
+
+
+var sel = document.getElementById('yemek');
+var selected = sel.options[sel.selectedIndex];
+var extra2 = selected.getAttribute('data-prc');
+
+var sel = document.getElementById('icicek');
+var selected = sel.options[sel.selectedIndex];
+var extra3 = selected.getAttribute('data-prc');
+
+
+tp = parseInt(extra) + parseInt(extra2) + parseInt(extra3);
+extra =parseInt(extra) + parseInt(extra2) + parseInt(extra3) + parseInt(t);
+
+
+Hours(x);
+Yemek(a);
+tatli(tat)
+icicek(n);
+tip(t);
+tarih(tr);
+ymktp(tp);
+toplam(extra);
+
+
+
+
+}
+
+function reset()
+{
+document.getElementById("hours").selectedIndex = "0"; 
+document.getElementById("yemek").selectedIndex = "0";
+document.getElementById("icicek").selectedIndex = "0";
+document.getElementById("myDate").value = '';
+document.getElementById("tatli").selectedIndex = "0";
+document.getElementById("tip").value = '';
+
+
+
+app();
+
+}
+
+
+
+</script>
+
+
+
+
+    </body>
+    
+</html>
